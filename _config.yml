@@ -1,0 +1,28 @@
+name: Rahim
+favicon: null
+layout_spectrum: 0.044039451982825994
+typography_spectrum: 0.7891647967044264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22428269032388926
+  lightness: 0.37302609952166677
+  saturation: 0.19043725822120905
+  rhythmicContrast: 0.825694372644648
+purpose: []
